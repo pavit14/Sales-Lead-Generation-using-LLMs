@@ -29,4 +29,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
 
-Adwaith Korapati, Vishnu Rao-Sharma, Faris Sumadi
+Pavithra Moorthy
